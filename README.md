@@ -28,7 +28,7 @@ At the end of each week, students are presented with homework for the week to co
 
 **Homework Task**
 
-Week three's homework required students to modify starter code (index.html, style.css and script.js) to create an application that enables employees to generate random password based on criteria that they’ve selected. This was required to run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code that students write. A responsive user interface that adapts to multiple screen sizes and a polished look and feel were also key project requirements.
+Week three's homework required students to modify starter code (index.html, style.css and script.js) to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This project was required to run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code that students write. A responsive user interface that adapts to multiple screen sizes and a polished look and feel were also key project requirements.
 
 
 **Completed site**
