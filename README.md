@@ -6,21 +6,19 @@ A Coding Boot Camp is offered through The University of Adelaide in partnership 
 
 During the third-week students are presented with the following concepts.
 
-- Media Query screen
-- Flexbox layout
-- Responsive design
-- Flexbox placement
-- Box Styling
-- CSS resets
-- Typography
-- Pseudo-classes
-- Pseudo-elements
-- Form styles
-- Custom forms
-- Wireframing
-- CSS selectors
-- CSS variables
-- Git pull
+- Script console.log
+- Javascript variables
+- Primitive types
+- logical comparison operators
+- conditional statements
+- Arrays
+- Iteration
+- Functions
+- Scope
+- Methods
+- Objects
+- Object methods
+- Object "this"
 
 At the end of each week, students are presented with homework for the week to complete putting into practice the above concepts. There is also a need to do your own research using resources such as;
 
@@ -30,19 +28,14 @@ At the end of each week, students are presented with homework for the week to co
 
 **Homework Task**
 
- To create a web application from scratch, which students can add to as the course progresses. 
+Week three's homework required students to modify starter code (index.html, style.css and script.js) to create an application that enables employees to generate random password based on criteria that they’ve selected. This was required to run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code that students write. A responsive user interface that adapts to multiple screen sizes and a polished look and feel were also key project requirements.
 
-A portfolio of work can showcase a student's skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights student's strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. 
 
-With these points in mind, in this homework students applied the core skills recently learned such as; flexbox, media queries, and CSS variables. 
+**Completed site**
 
-**Note:** The early commits most students don't have enough web applications to showcase at this point, therefore placeholder images and names have been used. Students will change the application links to real applications as they are created later in the course.
+The URL can be found here>> https://mattdryan.github.io/Week-3-Homework/
 
-**Competed site**
-
-The URL can be found here>> https://mattdryan.github.io/Week-2-Homework/
-
-Following the link, you will be presented with the "Portfolio Bio" page similar to the below screenshot.
+Following the link, you will be presented with the "Password Generator" page similar to the below screenshot.
 
 https://github.com/MattDRyan/Week-2-Homework/blob/05e7ac3abb08af51fadd72df81122c38dedddb3b/assets/Images/Application-screenshot.jpg
 
