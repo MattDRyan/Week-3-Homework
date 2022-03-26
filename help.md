@@ -20,7 +20,7 @@ Inclusion of at least one special character, e.g., ! @ # ? ]
 
 **How to use GenBot**
 
-1) Browse to HTTPS://
+1) Browse to https://mattdryan.github.io/Week-3-Homework/
 2) Click the Generate Password button
 3) Choose the number of characters
 4) Choose your case preferences. Confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
