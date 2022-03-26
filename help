@@ -1,9 +1,50 @@
-Passwords generator help
+**Introduction**
 
-Password strength is a measure of the effectiveness of a password against guessing or brute-force attacks. In its usual form, it estimates how many trials an attacker who does not have direct access to the password would need, on average, to guess it correctly. The strength of a password is a function of length, complexity, and unpredictability.[1]
+Password strength is a measure of the effectiveness of a password against guessing or brute-force attacks. In its usual form, it estimates how many trials an attacker who does not have direct access to the password would need, on average, to guess it correctly. The strength of a password is a function of length, complexity, and unpredictability.
 
-Using strong passwords lowers overall risk of a security breach, but strong passwords do not replace the need for other effective security controls.[2] The effectiveness of a password of a given strength is strongly determined by the design and implementation of the factors (knowledge, ownership, inherence). The first factor is the main focus in this article.
+Using strong passwords lowers overall risk of a security breach, but strong passwords do not replace the need for other effective security controls.The effectiveness of a password of a given strength is strongly determined by the design and implementation of several factors, however, we strongly recommend using our password lenght as a guide below. 
 
-The rate at which an attacker can submit guessed passwords to the system is a key factor in determining system security. Some systems impose a time-out of several seconds after a small number (e.g. three) of failed password entry attempts. In the absence of other vulnerabilities, such systems can be effectively secured with relatively simple passwords. However, the system must store information about the user's passwords in some form and if that information is stolen, say by breaching system security, the user's passwords can be at risk.
+**WEAK**:         < 8 char lenght
+**GOOD**:         9-14 char lenght
+**STRONG**:       15-20 char lenght
+**VERY STRONG**:  21 > char lenght
+**UNBELIEVABLE**: 128 char lenght
 
-In 2019, the United Kingdom's NCSC analysed public databases of breached accounts to see which words, phrases and strings people used. Top of the list was 123456, appearing in more than 23 million passwords. The second-most popular string, 123456789, was not much harder to crack, while the top five included "qwerty", "password" and 1111111.[3]
+Password strenght is determined by the rate at which an attacker can submit guessed passwords to the system and is a key factor in determining system security. 
+
+A strong password is one that is more secure by virtue of being difficult for a machine or a human to guess. Password strength can be achieved by incorporating the following characteristics; the more characteristics you incorporate into your password, the stronger it will be.
+
+Characteristics of strong passwords
+At least 8 characters—the more characters, the better
+A mixture of both uppercase and lowercase letters
+A mixture of letters and numbers
+Inclusion of at least one special character, e.g., ! @ # ? ]
+
+**How to use Passbot**
+
+1) Browse to https://
+2) Click the Generate Password button
+3) Choose the number of characters
+4) Choose your case preferences
+5) 
+
+
+While all systems that use the Lafayette NetID and password for authentication support a password with the above characteristics, please note that other systems may not support similarly strong passwords. For example, a system may not recognize case, may have a limit on the number of characters, or may not allow special characters. ITS recommends that in these situations users incorporate as many strong password characteristics as the system will allow.
+
+Examples of weak passwords
+Any word that can be found in a dictionary, in any language (e.g., airplane or aeroplano).
+A dictionary word with some letters simply replaced by numbers (e.g., a1rplan3 or aer0plan0).
+A repeated character or a series of characters (e.g., AAAAA or 12345).
+A keyboard series of characters (e.g., qwerty or poiuy).
+Personal information (e.g., birthdays, names of pets or friends, Social Security number, addresses).
+Anything that’s written down and stored somewhere near your computer.
+Tips for keeping your password secure
+Change it regularly—once every three to six months.
+Change it if you have the slightest suspicion that the password has become known by a human or a machine.
+Never use it for other websites.
+Avoid typing it on computers that you do not trust; for example, in an Internet café.
+Never save it for a web form on a computer that you do not control or that is used by more than one person.
+Never tell it to anyone.
+Never write it down.
+Tips for creating a strong password
+
