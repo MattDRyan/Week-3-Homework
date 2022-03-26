@@ -48,5 +48,7 @@ Here are some examples of what not to use:
 - Never save it for a web form on a computer that you do not control or is used by more than one person.
 - Never tell it to anyone.
 - Never write it down.
+
+
  
 Using GenBot and adhering to our tips, you can be assured your authentication security is in safe hands. We hope you enjoy using GenBot, an ACME Global corporation.
