@@ -1,3 +1,15 @@
+:root{
+  --purple: #601A4A;
+  --orange: #EE442F;
+--go-green:rgb(5, 165, 5);
+--stop-red: hsl(360, 91%, 36%);
+--white: white;
+--custom-blue: rgb(0,1,44);
+
+
+
+}
+
 *,
 *::before,
 *::after {
@@ -14,7 +26,9 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  /* To be removed, no longer necessary with background image */
+  /* background-color: #f9fbfd; */
+  background-image: url('../Images/background.jpg');
 }
 
 .wrapper {
@@ -23,13 +37,27 @@ body {
   padding-right: 20px;
 }
 
+/* Added width and margin to match 'çard'. Used var colour */
 header {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: var(--white);
+  background-color: var(--custom-blue);
+  margin: auto;
+  max-width: 800px;
+  height: 75px;
 }
 
+/* aligned text in header box */
+header h1{
+  padding: 20px
+}
+
+.card-header h2{
+  text-align: center;
+  color: var(--custom-blue);
+}
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -74,7 +102,7 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: var(--stop-red);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
@@ -87,14 +115,30 @@ header {
   text-align: center;
   cursor: pointer;
 }
+.btn:hover{
+  background-color: var(--go-green);
+}
 
-button[disabled] {
+button {
   cursor: default;
   background: #c0c7cf;
 }
 
 .float-right {
   float: right;
+}
+a {
+  color: #ff0000;
+}
+
+a:hover, a:visited, a:focus {
+  color: #a60000;
+  text-decoration: none;
+}
+
+a:active {
+  color: #000000;
+  background-color: #a60000;
 }
 
 #password {
